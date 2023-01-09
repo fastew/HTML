@@ -1,6 +1,8 @@
-# Cyworld
+# Cyworld 페이지 구현
 
 ![image](https://user-images.githubusercontent.com/51785795/211342075-79c50e90-a81c-4ab2-9357-95f13cfeca22.png)
+
+기본 페이지
 
 ![image](https://user-images.githubusercontent.com/51785795/211342217-74c9fa39-b916-4864-8f43-74faaa052179.png)
 
