@@ -1,4 +1,4 @@
-# Cyworld 페이지 구현
+# Cyworld 구현
 
 ![image](https://user-images.githubusercontent.com/51785795/211342075-79c50e90-a81c-4ab2-9357-95f13cfeca22.png)
 
