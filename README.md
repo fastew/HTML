@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/51785795/211342439-a146fc5d-48ba-4dc4-8a84-f27b7aa60255.png)
 
-끝말있기 게임 
+끝말있기 게임
 
 ![image](https://user-images.githubusercontent.com/51785795/211342542-2d00d014-e186-47ea-97bb-b09d1444bfa3.png)
 
